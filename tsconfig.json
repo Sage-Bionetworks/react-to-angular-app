@@ -23,6 +23,8 @@
     ],
     "paths":{
       "crypto":["node_modules/crypto-browserify"],
+      "fs":["node_modules/fs-web"],
+      "path":["node_modules/path-browserify"],
       "stream":["node_modules/stream-browserify"],
     }
   },

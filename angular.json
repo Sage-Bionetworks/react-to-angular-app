@@ -36,6 +36,8 @@
             "scripts": [],
             "allowedCommonJsDependencies": [
               "crypto",
+              "fs",
+              "path",
               "stream"
             ]
           },
